@@ -1,0 +1,5 @@
+*.json
+dev/std_troops/obj/
+dev/std_troops/.vs/
+*.dll
+*.pdb
